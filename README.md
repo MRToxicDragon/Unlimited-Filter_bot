@@ -96,6 +96,9 @@ pip3 install -r requirements.txt
 python3 bot.py
 ```
 
+### Deploy On Railway
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Fappu2006%2FUnlimited-Filter-Bot&plugins=mongodb&envs=WEBHOOK%2CTG_BOT_TOKEN%2CAPI_HASH%2CAPI_ID%2CAUTH_USERS%2CDATABASE_URI%2CDATABASE_NAME%2CSAVE_USER%2CHEROKU_API_KEY&optionalEnvs=SAVE_USER&WEBHOOKDefault=ANYTHING&referralCode=akash2006)
+
 
 ## Configs
 
