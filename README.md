@@ -1,5 +1,6 @@
 # Unlimited Filter Bot
 
+The Orginel Owner Of This Repo Is  [![TroJanz](https://img.shields.io/badge/TroJanzHEX-orange?style=for-the-badge&logo=github)](https://github.com/TroJanzHEX)
 
 <p align="center">
   <a href="https://www.python.org">
@@ -8,22 +9,21 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/TroJanzHEX/Unlimited-Filter-Bot/stargazers">
-    <img src="https://img.shields.io/github/stars/TroJanzHEX/Unlimited-Filter-Bot?style=social">
+  <a href="https://github.com/MRToxicDragon/Unlimited-Filter_bot/stargazers">
+    <img src="https://img.shields.io/github/stars/MRToxicDragon/Unlimited-Filter_bot?style=social">
 
   </a>
   
-  <a href="https://github.com/TroJanzHEX/Unlimited-Filter-Bot/fork">
-    <img src="https://img.shields.io/github/forks/TroJanzHEX/Unlimited-Filter-Bot?label=Fork&style=social">
+  <a href="https://github.com/MRToxicDragon/Unlimited-Filter_bot/fork">
+    <img src="https://img.shields.io/github/forks/MRToxicDragon/Unlimited-Filter_bot?label=Fork&style=social">
 
   </a>  
 </p>
 
-[![TroJanz](https://img.shields.io/badge/TroJanzHEX-Channel-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/TroJanzHEX)  
+[![TMC_BOTX](https://img.shields.io/badge/TMCBOTX-Channel-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/TroJanzHEX)  
 ㅤㅤㅤㅤㅤㅤㅤ  
-[![TroJanz](https://img.shields.io/badge/TroJanzHEX-Support-red?style=flat&logo=telegram)](https://telegram.dog/TroJanzSupport)  [![TroJanz](https://img.shields.io/badge/TroJanzHEX-Website-red?style=flat&logo=CodersRank)](https://TroJanzHEX.me)  
+[![TMC_BOTX](https://img.shields.io/badge/TMCBOTX-Support-red?style=flat&logo=telegram)](https://telegram.dog/TMC_BOTX_Group)    
 ㅤㅤㅤㅤㅤㅤㅤ  
-[![MIT license](https://img.shields.io/badge/License-MIT-blue?style=flat)](https://github.com/TroJanzHEX/Unlimited-Filter-Bot/blob/main/LICENSE)  [![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/TroJanzHEX/Unlimited-Filter-Bot)
 
 
 ## An advanced Filter Bot with nearly unlimitted filters!
@@ -72,14 +72,7 @@
 * `/info <userid>`  -  Shows User Information. Also use `/info` as reply to some message for their details!
 
 
-## You can check the video tutorial on how to deploy
-
-[Click here to see tutorial video](https://youtu.be/hkmc3e7U7R4)
-
-Thanks to [InfotelGroup](https://telegram.dog/InFoTel_Group) and [Erich Daniken](https://telegram.dog/ErichDaniken) for the video
-
-
-## Any bugs or errors or suggestions, report at [TroJanzSupport](https://telegram.dog/TroJanzSupport)
+## Any bugs or errors or suggestions, report To The ORg OWner [TroJanzSupport](https://telegram.dog/TroJanzSupport)
 
 
 ## Installation
